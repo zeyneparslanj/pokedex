@@ -1,5 +1,5 @@
 import { colors, pokedexURL } from "./constants.js";
-import { Pokedex } from "./Pokedex.js";
+import { Pokedex } from "./pokedex.js";
 
 const pokeContainer = document.querySelector(".poke-container");
 const searchInput = document.querySelector("#search-input");
