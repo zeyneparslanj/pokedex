@@ -1,4 +1,4 @@
-import { fetchJson, includes } from "./util.js";
+import { fetchJson, includes } from "./util";
 
 export class Pokedex {
     constructor(apiUrl, pageSize = 25) {
